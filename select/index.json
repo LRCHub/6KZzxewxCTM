@@ -1,0 +1,16 @@
+{
+  "version": 1,
+  "base_track": "総体的独自論",
+  "base_artist": "Daitch",
+  "createdAt": "2026-02-25T10:55:53.466053Z",
+  "candidates": [
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "総体的独自論 (feat. 汐菜)",
+      "artist": "Daitch",
+      "has_synced": false,
+      "path": "select/pl_01_総体的独自論_(feat._汐菜)_Daitch.txt"
+    }
+  ]
+}
